@@ -12,15 +12,15 @@ Created by: Eric Chen, Trevor Mozingo
 ####How will we meet these conditions:
 ####    Timeline:
 
-*  11/20-11/30 Since we already have code for making the TurtleBot visually go in a square we will use this time to research what drones we have access to, what it is capable of doing, and how we can attain that tracking functionality we need. We will work with the TAs to accomplish this.
+* 11/20-11/30 Since we already have code for making the TurtleBot visually go in a square we will use this time to research what drones we have access to, what it is capable of doing, and how we can attain that tracking functionality we need. We will work with the TAs to accomplish this.
 
-*  12/1 Lab 5 is on drones! We'll (hopefully) learn a lot about drone localization from this lab.
+* 12/1 Lab 5 is on drones! We'll (hopefully) learn a lot about drone localization from this lab.
 
-*  12/1-12/8 Work on the drone part of the final project
+* 12/1-12/8 Work on the drone part of the final project
 
-*  12/9-12/11 Record the demo for extra credit and in case the live demo doesn't work
+* 12/9-12/11 Record the demo for extra credit and in case the live demo doesn't work
 
-*  12/11 Final presentations
+* 12/11 Final presentations
 
 ####What modules are needed:
 * For the turtleBot portion we already know what modules and libraries we will need from doing Lab 4.
