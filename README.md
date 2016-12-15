@@ -26,10 +26,7 @@ What modules are needed:
 	- For the turtleBot portion we already know what modules and libraries we will need from doing Lab 4.
 	- We will need to research what modules the drone needs to see color, and then go toward it up to a certian point. Essentially what the TurtleBot did in that that vision guided square lab but the drone as well.  
 
-
-##############################################################################################################################
 ### Write Up
-12/11/2016
 
 Original Final Project Proposal:
 “Minimum success conditions and gist of the project:  
