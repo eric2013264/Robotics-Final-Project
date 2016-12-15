@@ -14,7 +14,7 @@ How will we meet these conditions:
 
 11/20-11/30 Since we already have code for making the TurtleBot visually go in a square we will use this time to research what drones we have access to, what it is capable of doing, and how we can attain that tracking functionality we need. We will work with the TAs to accomplish this.
 
-#### 12/1 Lab 5 is on drones! We'll (hopefully) learn a lot about drone localization from this lab.
+    12/1 Lab 5 is on drones! We'll (hopefully) learn a lot about drone localization from this lab.
 
 12/1-12/8 Work on the drone part of the final project
 
