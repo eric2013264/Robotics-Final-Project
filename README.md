@@ -1,7 +1,7 @@
 # Robotics-Final-Project
 Final project involving programming an AR Drone and TurtleBot to navigate and interact with vision. Built with ROS, written in Python.
 
-## CptS 483 Final Project Proposal #################################################
+### CptS 483 Final Project Proposal #################################################
 Eric Chen
 
 Group Members: Trevor Mozingo and I
@@ -28,7 +28,7 @@ What modules are needed:
 
 
 ##############################################################################################################################
-CptS 483 Final Project Info Write Up
+### Write Up
 12/11/2016
 
 Original Final Project Proposal:
