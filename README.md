@@ -7,7 +7,7 @@ Youtube URL for demo video: https://youtu.be/gbDNrzqeofI
 Created by: Eric Chen, Trevor Mozingo
 
 ####Minimum success conditions and gist of the project: 
-* We want to have the TurtleBot going in a loop (or square) using vision and have a drone track and follow the TurtleBot above it. We should end up with two robots going in loops, the drone slightly behind the TurtleBot. We initially wanted to have the TurtleBot go to a marker and then land the drone on the TurtleBot but we decided to be more realistic after hearing how difficult the drones can be to work with. At the minimum we want the drone to at least be in the air and able to see the TurtleBot. We don't yet know if we can actually get the drone to follow the TurtleBot. 
+* We want to have the TurtleBot going in a loop (or square) using vision and have a drone track and follow the TurtleBot above it. We should end up with two robots going in loops, the drone slightly behind the TurtleBot. We initially wanted to have the TurtleBot go to a marker and then land the drone on the TurtleBot but we decided to be more realistic after hearing how difficult the drones can be to work with. At the very least we want the drone to at least be in the air and able to see the TurtleBot. We don't yet know if we can actually get the drone to follow the TurtleBot. 
 
 How will we meet these conditions:
 ####Timeline:
