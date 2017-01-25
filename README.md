@@ -1,9 +1,7 @@
 # CptS 487 Intro To Robotics: Final Project
-Final project involving programming an AR Drone and TurtleBot to navigate and interact with vision. Built in ROS, tested and compiled in Gazebo on an Ubuntu 14.02 VM and written in Python. Utilizes OpenGL for vision.
+Final project involving programming an AR Drone and TurtleBot to navigate and interact with vision. Written in Python and created with ROS in Ubuntu 14.02. Utilizes OpenGL for vision.
 
 Youtube URL for demo video: https://youtu.be/gbDNrzqeofI
-
-Written in Python and compiled with ROS Indigo in Ubuntu 14.
 
 ### CptS 483 Final Project Proposal #################################################
 Created by: Eric Chen, Trevor Mozingo
