@@ -3,6 +3,8 @@
 
 Youtube URL for demo video: https://youtu.be/gbDNrzqeofI
 
+Written in Python and compiled with ROS Indigo in Ubuntu 14.
+
 ### CptS 483 Final Project Proposal #################################################
 Created by: Eric Chen, Trevor Mozingo
 
