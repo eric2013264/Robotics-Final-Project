@@ -1,7 +1,13 @@
-# CptS 487 Intro To Robotics: Final Project
+<p align="center">
+  <b>Robotics Final Project</b><br>
+  <a href="#">YouTube Video Demo: https://youtu.be/gbDNrzqeofI</a>
+  <br><br>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+</p>
+
 Final project involving programming an AR Drone and TurtleBot to navigate and interact with vision. Written in Python and created with ROS in Ubuntu 14.02. Utilizes OpenGL for vision.
 
-Youtube URL for demo video: https://youtu.be/gbDNrzqeofI
+Youtube URL for demo video: 
 
 ### CptS 483 Final Project Proposal #################################################
 Created by: Eric Chen, Trevor Mozingo
