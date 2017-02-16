@@ -1,6 +1,6 @@
 <p align="center">
   <b>Robotics Final Project</b><br>
-  <a href="#">YouTube Video Demo: https://youtu.be/gbDNrzqeofI</a>
+  <a>YouTube Video Demo: https://youtu.be/gbDNrzqeofI</a>
   <br><br>
   <img src="https://youtu.be/gbDNrzqeofI">
 </p>
