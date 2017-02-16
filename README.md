@@ -2,7 +2,6 @@
   <b>Robotics Final Project</b><br>
   <a>YouTube Video Demo: https://youtu.be/gbDNrzqeofI</a>
   <br><br>
-  <img src="https://youtu.be/gbDNrzqeofI">
 </p>
 
 Final project involving programming an AR Drone and TurtleBot to navigate and interact with vision. Written in Python and created with ROS in Ubuntu 14.02. Utilizes OpenGL for vision.
